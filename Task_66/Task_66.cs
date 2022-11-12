@@ -1,4 +1,6 @@
-﻿int enterNumber(string msg, string errorMsg)
+﻿// Программа находит сумму натуральных чисел от M до N.
+
+int enterNumber(string msg, string errorMsg)
 {
     int number;
     while (true)

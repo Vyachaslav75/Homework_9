@@ -1,4 +1,6 @@
-﻿int enterNumber(string msg, string errorMsg)
+﻿// Программа выводит все натуральные числа от N до 1.
+
+int enterNumber(string msg, string errorMsg)
 {
     int number;
     while (true)
